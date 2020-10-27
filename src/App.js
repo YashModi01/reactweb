@@ -4,11 +4,14 @@ import Home from './Home'
 import Services from './Services'
 import About from './About'
 import Contact from './Contact'
+import Navbar from './Navbar'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import '../node_modules/bootstrap/dist/js/bootstrap.bundle'
 
 const App = () => {
   return (
     <>
+      <Navbar />
       <Switch>
         <Route path = "/" component = {Home} exact />
         <Route path = "/service" component = {Services} exact/>
