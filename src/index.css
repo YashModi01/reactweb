@@ -23,7 +23,7 @@
 
 .menu_active {
   font-weight: bold;
-  border-bottom: 1px solid #565387;
+  border-bottom: 2px solid #565387;
 }
 
 .navbar a:hover {
