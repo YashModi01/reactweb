@@ -1,9 +1,29 @@
 import React from 'react'
+import web from './images/img7.png'
+import Card from './Card'
 
 const Services = () => {
     return (
         <>
-            <h1>Welcome to Service Page</h1>
+            <div className = "my-5">
+                <h1 className = "text-center">
+                    Our Services
+                </h1>
+            </div>
+            <div className = "container-fluid mb-5">
+                <div className = "row">
+                    <div className = "col-10 mx-auto">
+                        <div className = "row gy-4">
+                          <Card />
+                          <Card />
+                          <Card />
+                          <Card />
+                          <Card />
+                          <Card />
+                        </div>
+                    </div>
+                </div>
+            </div>
         </>
     )
 }
