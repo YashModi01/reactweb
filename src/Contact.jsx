@@ -26,7 +26,7 @@ const Contact = () => {
             <div className = "my-5">
                 <h1 className = "text-center">Contact Us</h1>
             </div>
-            <div className = "container contact_div">
+            <div className = "container contact_div mb-5">
                 <div className = "row">
                     <div className = "col-md-6 col-10 mx-auto">
                         <form onSubmit = {formSubmit}>
@@ -50,7 +50,7 @@ const Contact = () => {
                             <textarea className="form-control" id="exampleFormControlTextarea1" rows="3" name = "message" value = {data.message} onChange = {inputEvent} required></textarea>
                         </div>
 
-                        <div className="col-12">
+                        <div className="col-12 ">
                             <button className="btn btn-primary" type="submit">Submit form</button>
                         </div>
                         </form>
