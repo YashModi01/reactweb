@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/YashModi01/reactweb/static/css/main.fd760283.chunk.css",
+    "main.js": "/YashModi01/reactweb/static/js/main.f7ac815b.chunk.js",
+    "main.js.map": "/YashModi01/reactweb/static/js/main.f7ac815b.chunk.js.map",
+    "runtime-main.js": "/YashModi01/reactweb/static/js/runtime-main.2bfca03b.js",
+    "runtime-main.js.map": "/YashModi01/reactweb/static/js/runtime-main.2bfca03b.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/YashModi01/reactweb/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.30c1cad0.chunk.js": "/YashModi01/reactweb/static/js/2.30c1cad0.chunk.js",
+    "static/js/2.30c1cad0.chunk.js.map": "/YashModi01/reactweb/static/js/2.30c1cad0.chunk.js.map",
+    "static/js/3.f81ea96f.chunk.js": "/YashModi01/reactweb/static/js/3.f81ea96f.chunk.js",
+    "static/js/3.f81ea96f.chunk.js.map": "/YashModi01/reactweb/static/js/3.f81ea96f.chunk.js.map",
+    "index.html": "/YashModi01/reactweb/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/YashModi01/reactweb/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.fd760283.chunk.css.map": "/YashModi01/reactweb/static/css/main.fd760283.chunk.css.map",
+    "static/js/2.30c1cad0.chunk.js.LICENSE.txt": "/YashModi01/reactweb/static/js/2.30c1cad0.chunk.js.LICENSE.txt",
+    "static/media/img211.a75afbff.png": "/YashModi01/reactweb/static/media/img211.a75afbff.png",
+    "static/media/img222.cda0f26c.png": "/YashModi01/reactweb/static/media/img222.cda0f26c.png",
+    "static/media/img223.85821351.png": "/YashModi01/reactweb/static/media/img223.85821351.png",
+    "static/media/img224.dbb9547b.png": "/YashModi01/reactweb/static/media/img224.dbb9547b.png",
+    "static/media/img225.dba30914.png": "/YashModi01/reactweb/static/media/img225.dba30914.png",
+    "static/media/img226.867ea7d7.png": "/YashModi01/reactweb/static/media/img226.867ea7d7.png",
+    "static/media/img7.fb2e7a95.png": "/YashModi01/reactweb/static/media/img7.fb2e7a95.png",
+    "static/media/img8.9eb9049b.png": "/YashModi01/reactweb/static/media/img8.9eb9049b.png",
+    "static/media/img9.4bd8a202.png": "/YashModi01/reactweb/static/media/img9.4bd8a202.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bfca03b.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.30c1cad0.chunk.js",
+    "static/css/main.fd760283.chunk.css",
+    "static/js/main.f7ac815b.chunk.js"
+  ]
+}
